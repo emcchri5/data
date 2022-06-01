@@ -1,0 +1,708 @@
+﻿sep=;
+country_or_region;year;variable;share_of_generation_pct
+Spain;2000;Solar;0
+Spain;2001;Solar;0.01
+Spain;2002;Solar;0.01
+Spain;2003;Solar;0.01
+Spain;2004;Solar;0.01
+Spain;2005;Solar;0.02
+Spain;2006;Solar;0.04
+Spain;2007;Solar;0.17
+Spain;2008;Solar;0.83
+Spain;2009;Solar;2.08
+Spain;2010;Solar;2.41
+Spain;2011;Solar;3.23
+Spain;2012;Solar;4.07
+Spain;2013;Solar;4.65
+Spain;2014;Solar;4.97
+Spain;2015;Solar;4.99
+Spain;2016;Solar;5.03
+Spain;2017;Solar;5.28
+Spain;2018;Solar;4.69
+Spain;2019;Solar;5.57
+Spain;2020;Solar;7.96
+Spain;2021;Solar;9.69
+Sri Lanka;2000;Solar;0.16
+Sri Lanka;2001;Solar;0.15
+Sri Lanka;2002;Solar;0.15
+Sri Lanka;2003;Solar;0.13
+Sri Lanka;2004;Solar;0.13
+Sri Lanka;2005;Solar;0.11
+Sri Lanka;2006;Solar;0.12
+Sri Lanka;2007;Solar;0.21
+Sri Lanka;2008;Solar;0.21
+Sri Lanka;2009;Solar;0.21
+Sri Lanka;2010;Solar;0.19
+Sri Lanka;2011;Solar;0.18
+Sri Lanka;2012;Solar;0.18
+Sri Lanka;2013;Solar;0.17
+Sri Lanka;2014;Solar;0.17
+Sri Lanka;2015;Solar;0.16
+Sri Lanka;2016;Solar;0.15
+Sri Lanka;2017;Solar;0.95
+Sri Lanka;2018;Solar;0.81
+Sri Lanka;2019;Solar;0.65
+Sri Lanka;2020;Solar;0.72
+Sudan (the);2000;Solar;0
+Sudan (the);2001;Solar;0
+Sudan (the);2002;Solar;0
+Sudan (the);2003;Solar;0
+Sudan (the);2004;Solar;0
+Sudan (the);2005;Solar;0
+Sudan (the);2006;Solar;0
+Sudan (the);2007;Solar;0
+Sudan (the);2008;Solar;0
+Sudan (the);2009;Solar;0
+Sudan (the);2010;Solar;0
+Sudan (the);2011;Solar;0
+Sudan (the);2012;Solar;0.11
+Sudan (the);2013;Solar;0.1
+Sudan (the);2014;Solar;0.09
+Sudan (the);2015;Solar;0.08
+Sudan (the);2016;Solar;0.14
+Sudan (the);2017;Solar;0.13
+Sudan (the);2018;Solar;0.13
+Sudan (the);2019;Solar;0.14
+Sudan (the);2020;Solar;0.14
+Suriname;2000;Solar;0
+Suriname;2001;Solar;0
+Suriname;2002;Solar;0
+Suriname;2003;Solar;0
+Suriname;2004;Solar;0
+Suriname;2005;Solar;0
+Suriname;2006;Solar;0
+Suriname;2007;Solar;0
+Suriname;2008;Solar;0
+Suriname;2009;Solar;0
+Suriname;2010;Solar;0
+Suriname;2011;Solar;0
+Suriname;2012;Solar;0
+Suriname;2013;Solar;0
+Suriname;2014;Solar;0.52
+Suriname;2015;Solar;0.51
+Suriname;2016;Solar;0.52
+Suriname;2017;Solar;0.53
+Suriname;2018;Solar;0.53
+Suriname;2019;Solar;0.42
+Suriname;2020;Solar;0.43
+Sweden;2000;Solar;0
+Sweden;2001;Solar;0
+Sweden;2002;Solar;0
+Sweden;2003;Solar;0
+Sweden;2004;Solar;0
+Sweden;2005;Solar;0
+Sweden;2006;Solar;0
+Sweden;2007;Solar;0
+Sweden;2008;Solar;0
+Sweden;2009;Solar;0.01
+Sweden;2010;Solar;0.01
+Sweden;2011;Solar;0.01
+Sweden;2012;Solar;0.01
+Sweden;2013;Solar;0.03
+Sweden;2014;Solar;0.03
+Sweden;2015;Solar;0.06
+Sweden;2016;Solar;0.09
+Sweden;2017;Solar;0.14
+Sweden;2018;Solar;0.25
+Sweden;2019;Solar;0.4
+Sweden;2020;Solar;0.64
+Sweden;2021;Solar;0.61
+Switzerland;2000;Solar;0.02
+Switzerland;2001;Solar;0.02
+Switzerland;2002;Solar;0.02
+Switzerland;2003;Solar;0.03
+Switzerland;2004;Solar;0.03
+Switzerland;2005;Solar;0.04
+Switzerland;2006;Solar;0.03
+Switzerland;2007;Solar;0.05
+Switzerland;2008;Solar;0.05
+Switzerland;2009;Solar;0.08
+Switzerland;2010;Solar;0.14
+Switzerland;2011;Solar;0.29
+Switzerland;2012;Solar;0.47
+Switzerland;2013;Solar;0.77
+Switzerland;2014;Solar;1.27
+Switzerland;2015;Solar;1.8
+Switzerland;2016;Solar;2.31
+Switzerland;2017;Solar;2.96
+Switzerland;2018;Solar;3.13
+Switzerland;2019;Solar;3.27
+Switzerland;2020;Solar;3.75
+Switzerland;2021;Solar;4.34
+Syrian Arab Republic (the);2000;Solar;0
+Syrian Arab Republic (the);2001;Solar;0
+Syrian Arab Republic (the);2002;Solar;0
+Syrian Arab Republic (the);2003;Solar;0
+Syrian Arab Republic (the);2004;Solar;0
+Syrian Arab Republic (the);2005;Solar;0
+Syrian Arab Republic (the);2006;Solar;0
+Syrian Arab Republic (the);2007;Solar;0
+Syrian Arab Republic (the);2008;Solar;0
+Syrian Arab Republic (the);2009;Solar;0
+Syrian Arab Republic (the);2010;Solar;0
+Syrian Arab Republic (the);2011;Solar;0
+Syrian Arab Republic (the);2012;Solar;0
+Syrian Arab Republic (the);2013;Solar;0
+Syrian Arab Republic (the);2014;Solar;0
+Syrian Arab Republic (the);2015;Solar;0
+Syrian Arab Republic (the);2016;Solar;0
+Syrian Arab Republic (the);2017;Solar;0
+Syrian Arab Republic (the);2018;Solar;0
+Syrian Arab Republic (the);2019;Solar;0
+Syrian Arab Republic (the);2020;Solar;0
+Taiwan (Province of China);2000;Solar;0
+Taiwan (Province of China);2001;Solar;0
+Taiwan (Province of China);2002;Solar;0
+Taiwan (Province of China);2003;Solar;0
+Taiwan (Province of China);2004;Solar;0
+Taiwan (Province of China);2005;Solar;0
+Taiwan (Province of China);2006;Solar;0
+Taiwan (Province of China);2007;Solar;0
+Taiwan (Province of China);2008;Solar;0
+Taiwan (Province of China);2009;Solar;0
+Taiwan (Province of China);2010;Solar;0.01
+Taiwan (Province of China);2011;Solar;0.05
+Taiwan (Province of China);2012;Solar;0.09
+Taiwan (Province of China);2013;Solar;0.14
+Taiwan (Province of China);2014;Solar;0.23
+Taiwan (Province of China);2015;Solar;0.36
+Taiwan (Province of China);2016;Solar;0.46
+Taiwan (Province of China);2017;Solar;0.67
+Taiwan (Province of China);2018;Solar;1.07
+Taiwan (Province of China);2019;Solar;1.49
+Taiwan (Province of China);2020;Solar;2.17
+Taiwan (Province of China);2021;Solar;3.32
+Tajikistan;2000;Solar;0
+Tajikistan;2001;Solar;0
+Tajikistan;2002;Solar;0
+Tajikistan;2003;Solar;0
+Tajikistan;2004;Solar;0
+Tajikistan;2005;Solar;0
+Tajikistan;2006;Solar;0
+Tajikistan;2007;Solar;0
+Tajikistan;2008;Solar;0
+Tajikistan;2009;Solar;0
+Tajikistan;2010;Solar;0
+Tajikistan;2011;Solar;0
+Tajikistan;2012;Solar;0
+Tajikistan;2013;Solar;0
+Tajikistan;2014;Solar;0
+Tajikistan;2015;Solar;0
+Tajikistan;2016;Solar;0
+Tajikistan;2017;Solar;0
+Tajikistan;2018;Solar;0
+Tajikistan;2019;Solar;0
+Tajikistan;2020;Solar;0
+Tajikistan;2021;Solar;0
+Thailand;2000;Solar;0
+Thailand;2001;Solar;0
+Thailand;2002;Solar;0
+Thailand;2003;Solar;0
+Thailand;2004;Solar;0
+Thailand;2005;Solar;0
+Thailand;2006;Solar;0
+Thailand;2007;Solar;0
+Thailand;2008;Solar;0
+Thailand;2009;Solar;0.01
+Thailand;2010;Solar;0.01
+Thailand;2011;Solar;0.06
+Thailand;2012;Solar;0.31
+Thailand;2013;Solar;0.67
+Thailand;2014;Solar;0.85
+Thailand;2015;Solar;1.43
+Thailand;2016;Solar;1.9
+Thailand;2017;Solar;2.63
+Thailand;2018;Solar;2.63
+Thailand;2019;Solar;2.84
+Thailand;2020;Solar;2.79
+Thailand;2021;Solar;2.32
+Togo;2000;Solar;0
+Togo;2001;Solar;0
+Togo;2002;Solar;0
+Togo;2003;Solar;0
+Togo;2004;Solar;0
+Togo;2005;Solar;0
+Togo;2006;Solar;0
+Togo;2007;Solar;0
+Togo;2008;Solar;0
+Togo;2009;Solar;0
+Togo;2010;Solar;0
+Togo;2011;Solar;0
+Togo;2012;Solar;0
+Togo;2013;Solar;0
+Togo;2014;Solar;0
+Togo;2015;Solar;0
+Togo;2016;Solar;0
+Togo;2017;Solar;0
+Togo;2018;Solar;0
+Togo;2019;Solar;0
+Togo;2020;Solar;0
+Tonga;2000;Solar;0
+Tonga;2001;Solar;0
+Tonga;2002;Solar;0
+Tonga;2003;Solar;0
+Tonga;2004;Solar;0
+Tonga;2005;Solar;0
+Tonga;2006;Solar;0
+Tonga;2007;Solar;0
+Tonga;2008;Solar;0
+Tonga;2009;Solar;0
+Tonga;2010;Solar;0
+Tonga;2011;Solar;0
+Tonga;2012;Solar;0
+Tonga;2013;Solar;0
+Tonga;2014;Solar;0
+Tonga;2015;Solar;0
+Tonga;2016;Solar;0
+Tonga;2017;Solar;0
+Tonga;2018;Solar;0
+Tonga;2019;Solar;0
+Tonga;2020;Solar;0
+Trinidad and Tobago;2000;Solar;0
+Trinidad and Tobago;2001;Solar;0
+Trinidad and Tobago;2002;Solar;0
+Trinidad and Tobago;2003;Solar;0
+Trinidad and Tobago;2004;Solar;0
+Trinidad and Tobago;2005;Solar;0
+Trinidad and Tobago;2006;Solar;0
+Trinidad and Tobago;2007;Solar;0
+Trinidad and Tobago;2008;Solar;0
+Trinidad and Tobago;2009;Solar;0
+Trinidad and Tobago;2010;Solar;0
+Trinidad and Tobago;2011;Solar;0
+Trinidad and Tobago;2012;Solar;0
+Trinidad and Tobago;2013;Solar;0
+Trinidad and Tobago;2014;Solar;0
+Trinidad and Tobago;2015;Solar;0
+Trinidad and Tobago;2016;Solar;0
+Trinidad and Tobago;2017;Solar;0
+Trinidad and Tobago;2018;Solar;0
+Trinidad and Tobago;2019;Solar;0
+Trinidad and Tobago;2020;Solar;0
+Tunisia;2000;Solar;0
+Tunisia;2001;Solar;0
+Tunisia;2002;Solar;0
+Tunisia;2003;Solar;0
+Tunisia;2004;Solar;0
+Tunisia;2005;Solar;0
+Tunisia;2006;Solar;0
+Tunisia;2007;Solar;0
+Tunisia;2008;Solar;0
+Tunisia;2009;Solar;0
+Tunisia;2010;Solar;0
+Tunisia;2011;Solar;0
+Tunisia;2012;Solar;0
+Tunisia;2013;Solar;0.06
+Tunisia;2014;Solar;0.17
+Tunisia;2015;Solar;0.33
+Tunisia;2016;Solar;0.59
+Tunisia;2017;Solar;0.68
+Tunisia;2018;Solar;0.87
+Tunisia;2019;Solar;1.22
+Tunisia;2020;Solar;1.28
+Tunisia;2021;Solar;1.32
+Turkey;2000;Solar;0
+Turkey;2001;Solar;0
+Turkey;2002;Solar;0
+Turkey;2003;Solar;0
+Turkey;2004;Solar;0
+Turkey;2005;Solar;0
+Turkey;2006;Solar;0
+Turkey;2007;Solar;0
+Turkey;2008;Solar;0
+Turkey;2009;Solar;0
+Turkey;2010;Solar;0
+Turkey;2011;Solar;0
+Turkey;2012;Solar;0
+Turkey;2013;Solar;0
+Turkey;2014;Solar;0.01
+Turkey;2015;Solar;0.07
+Turkey;2016;Solar;0.38
+Turkey;2017;Solar;0.97
+Turkey;2018;Solar;2.57
+Turkey;2019;Solar;3.05
+Turkey;2020;Solar;3.59
+Turkey;2021;Solar;3.92
+Turkmenistan;2000;Solar;0
+Turkmenistan;2001;Solar;0
+Turkmenistan;2002;Solar;0
+Turkmenistan;2003;Solar;0
+Turkmenistan;2004;Solar;0
+Turkmenistan;2005;Solar;0
+Turkmenistan;2006;Solar;0
+Turkmenistan;2007;Solar;0
+Turkmenistan;2008;Solar;0
+Turkmenistan;2009;Solar;0
+Turkmenistan;2010;Solar;0
+Turkmenistan;2011;Solar;0
+Turkmenistan;2012;Solar;0
+Turkmenistan;2013;Solar;0
+Turkmenistan;2014;Solar;0
+Turkmenistan;2015;Solar;0
+Turkmenistan;2016;Solar;0
+Turkmenistan;2017;Solar;0
+Turkmenistan;2018;Solar;0
+Turkmenistan;2019;Solar;0
+Turkmenistan;2020;Solar;0
+Turks and Caicos Islands (the);2000;Solar;0
+Turks and Caicos Islands (the);2001;Solar;0
+Turks and Caicos Islands (the);2002;Solar;0
+Turks and Caicos Islands (the);2003;Solar;0
+Turks and Caicos Islands (the);2004;Solar;0
+Turks and Caicos Islands (the);2005;Solar;0
+Turks and Caicos Islands (the);2006;Solar;0
+Turks and Caicos Islands (the);2007;Solar;0
+Turks and Caicos Islands (the);2008;Solar;0
+Turks and Caicos Islands (the);2009;Solar;0
+Turks and Caicos Islands (the);2010;Solar;0
+Turks and Caicos Islands (the);2011;Solar;0
+Turks and Caicos Islands (the);2012;Solar;0
+Turks and Caicos Islands (the);2013;Solar;0
+Turks and Caicos Islands (the);2014;Solar;0
+Turks and Caicos Islands (the);2015;Solar;0
+Turks and Caicos Islands (the);2016;Solar;0
+Turks and Caicos Islands (the);2017;Solar;0
+Turks and Caicos Islands (the);2018;Solar;0
+Turks and Caicos Islands (the);2019;Solar;0
+Turks and Caicos Islands (the);2020;Solar;0
+Uganda;2000;Solar;0
+Uganda;2001;Solar;0
+Uganda;2002;Solar;0
+Uganda;2003;Solar;0
+Uganda;2004;Solar;0
+Uganda;2005;Solar;0
+Uganda;2006;Solar;0.64
+Uganda;2007;Solar;0.51
+Uganda;2008;Solar;0.86
+Uganda;2009;Solar;0.83
+Uganda;2010;Solar;0.7
+Uganda;2011;Solar;0.73
+Uganda;2012;Solar;1.42
+Uganda;2013;Solar;1.08
+Uganda;2014;Solar;1.02
+Uganda;2015;Solar;1
+Uganda;2016;Solar;1.03
+Uganda;2017;Solar;1.49
+Uganda;2018;Solar;1.61
+Uganda;2019;Solar;1.26
+Uganda;2020;Solar;1.5
+Ukraine;2000;Solar;0
+Ukraine;2001;Solar;0
+Ukraine;2002;Solar;0
+Ukraine;2003;Solar;0
+Ukraine;2004;Solar;0
+Ukraine;2005;Solar;0
+Ukraine;2006;Solar;0
+Ukraine;2007;Solar;0
+Ukraine;2008;Solar;0
+Ukraine;2009;Solar;0
+Ukraine;2010;Solar;0
+Ukraine;2011;Solar;0.02
+Ukraine;2012;Solar;0.17
+Ukraine;2013;Solar;0.29
+Ukraine;2014;Solar;0.24
+Ukraine;2015;Solar;0.3
+Ukraine;2016;Solar;0.3
+Ukraine;2017;Solar;0.48
+Ukraine;2018;Solar;0.7
+Ukraine;2019;Solar;1.92
+Ukraine;2020;Solar;4.03
+Ukraine;2021;Solar;3.84
+United Arab Emirates;2000;Solar;0
+United Arab Emirates;2001;Solar;0
+United Arab Emirates;2002;Solar;0
+United Arab Emirates;2003;Solar;0
+United Arab Emirates;2004;Solar;0
+United Arab Emirates;2005;Solar;0
+United Arab Emirates;2006;Solar;0
+United Arab Emirates;2007;Solar;0
+United Arab Emirates;2008;Solar;0
+United Arab Emirates;2009;Solar;0.01
+United Arab Emirates;2010;Solar;0.02
+United Arab Emirates;2011;Solar;0.03
+United Arab Emirates;2012;Solar;0.04
+United Arab Emirates;2013;Solar;0.1
+United Arab Emirates;2014;Solar;0.27
+United Arab Emirates;2015;Solar;0.24
+United Arab Emirates;2016;Solar;0.25
+United Arab Emirates;2017;Solar;0.58
+United Arab Emirates;2018;Solar;1.02
+United Arab Emirates;2019;Solar;2.74
+United Arab Emirates;2020;Solar;3.03
+United Kingdom;2000;Solar;0
+United Kingdom;2001;Solar;0
+United Kingdom;2002;Solar;0
+United Kingdom;2003;Solar;0
+United Kingdom;2004;Solar;0
+United Kingdom;2005;Solar;0
+United Kingdom;2006;Solar;0
+United Kingdom;2007;Solar;0
+United Kingdom;2008;Solar;0.01
+United Kingdom;2009;Solar;0.01
+United Kingdom;2010;Solar;0.01
+United Kingdom;2011;Solar;0.07
+United Kingdom;2012;Solar;0.37
+United Kingdom;2013;Solar;0.57
+United Kingdom;2014;Solar;1.21
+United Kingdom;2015;Solar;2.25
+United Kingdom;2016;Solar;3.09
+United Kingdom;2017;Solar;3.42
+United Kingdom;2018;Solar;3.85
+United Kingdom;2019;Solar;4.02
+United Kingdom;2020;Solar;4.33
+United Kingdom;2021;Solar;4.08
+United States of America;2000;Solar;0.01
+United States of America;2001;Solar;0.01
+United States of America;2002;Solar;0.01
+United States of America;2003;Solar;0.01
+United States of America;2004;Solar;0.01
+United States of America;2005;Solar;0.01
+United States of America;2006;Solar;0.01
+United States of America;2007;Solar;0.01
+United States of America;2008;Solar;0.02
+United States of America;2009;Solar;0.02
+United States of America;2010;Solar;0.03
+United States of America;2011;Solar;0.04
+United States of America;2012;Solar;0.11
+United States of America;2013;Solar;0.22
+United States of America;2014;Solar;0.71
+United States of America;2015;Solar;0.96
+United States of America;2016;Solar;1.34
+United States of America;2017;Solar;1.91
+United States of America;2018;Solar;2.22
+United States of America;2019;Solar;2.57
+United States of America;2020;Solar;3.23
+United States of America;2021;Solar;3.94
+Uruguay;2000;Solar;0
+Uruguay;2001;Solar;0
+Uruguay;2002;Solar;0
+Uruguay;2003;Solar;0
+Uruguay;2004;Solar;0
+Uruguay;2005;Solar;0
+Uruguay;2006;Solar;0
+Uruguay;2007;Solar;0
+Uruguay;2008;Solar;0
+Uruguay;2009;Solar;0
+Uruguay;2010;Solar;0
+Uruguay;2011;Solar;0
+Uruguay;2012;Solar;0
+Uruguay;2013;Solar;0
+Uruguay;2014;Solar;0
+Uruguay;2015;Solar;0.37
+Uruguay;2016;Solar;1.09
+Uruguay;2017;Solar;1.89
+Uruguay;2018;Solar;2.82
+Uruguay;2019;Solar;2.66
+Uruguay;2020;Solar;3.57
+Uzbekistan;2000;Solar;0
+Uzbekistan;2001;Solar;0
+Uzbekistan;2002;Solar;0
+Uzbekistan;2003;Solar;0
+Uzbekistan;2004;Solar;0
+Uzbekistan;2005;Solar;0
+Uzbekistan;2006;Solar;0
+Uzbekistan;2007;Solar;0
+Uzbekistan;2008;Solar;0
+Uzbekistan;2009;Solar;0
+Uzbekistan;2010;Solar;0
+Uzbekistan;2011;Solar;0
+Uzbekistan;2012;Solar;0
+Uzbekistan;2013;Solar;0
+Uzbekistan;2014;Solar;0
+Uzbekistan;2015;Solar;0
+Uzbekistan;2016;Solar;0
+Uzbekistan;2017;Solar;0.02
+Uzbekistan;2018;Solar;0.02
+Uzbekistan;2019;Solar;0.02
+Uzbekistan;2020;Solar;0.02
+Vanuatu;2000;Solar;0
+Vanuatu;2001;Solar;0
+Vanuatu;2002;Solar;0
+Vanuatu;2003;Solar;0
+Vanuatu;2004;Solar;0
+Vanuatu;2005;Solar;0
+Vanuatu;2006;Solar;0
+Vanuatu;2007;Solar;0
+Vanuatu;2008;Solar;0
+Vanuatu;2009;Solar;0
+Vanuatu;2010;Solar;0
+Vanuatu;2011;Solar;0
+Vanuatu;2012;Solar;0
+Vanuatu;2013;Solar;0
+Vanuatu;2014;Solar;0
+Vanuatu;2015;Solar;0
+Vanuatu;2016;Solar;0
+Vanuatu;2017;Solar;0
+Vanuatu;2018;Solar;14.29
+Vanuatu;2019;Solar;14.29
+Vanuatu;2020;Solar;14.29
+Venezuela (Bolivarian Republic of);2000;Solar;0
+Venezuela (Bolivarian Republic of);2001;Solar;0
+Venezuela (Bolivarian Republic of);2002;Solar;0
+Venezuela (Bolivarian Republic of);2003;Solar;0
+Venezuela (Bolivarian Republic of);2004;Solar;0
+Venezuela (Bolivarian Republic of);2005;Solar;0
+Venezuela (Bolivarian Republic of);2006;Solar;0
+Venezuela (Bolivarian Republic of);2007;Solar;0
+Venezuela (Bolivarian Republic of);2008;Solar;0
+Venezuela (Bolivarian Republic of);2009;Solar;0
+Venezuela (Bolivarian Republic of);2010;Solar;0
+Venezuela (Bolivarian Republic of);2011;Solar;0
+Venezuela (Bolivarian Republic of);2012;Solar;0
+Venezuela (Bolivarian Republic of);2013;Solar;0
+Venezuela (Bolivarian Republic of);2014;Solar;0
+Venezuela (Bolivarian Republic of);2015;Solar;0.01
+Venezuela (Bolivarian Republic of);2016;Solar;0.01
+Venezuela (Bolivarian Republic of);2017;Solar;0.01
+Venezuela (Bolivarian Republic of);2018;Solar;0.01
+Venezuela (Bolivarian Republic of);2019;Solar;0.01
+Venezuela (Bolivarian Republic of);2020;Solar;0.01
+Viet Nam;2000;Solar;0
+Viet Nam;2001;Solar;0
+Viet Nam;2002;Solar;0
+Viet Nam;2003;Solar;0
+Viet Nam;2004;Solar;0
+Viet Nam;2005;Solar;0
+Viet Nam;2006;Solar;0
+Viet Nam;2007;Solar;0
+Viet Nam;2008;Solar;0
+Viet Nam;2009;Solar;0
+Viet Nam;2010;Solar;0.01
+Viet Nam;2011;Solar;0.01
+Viet Nam;2012;Solar;0.01
+Viet Nam;2013;Solar;0.01
+Viet Nam;2014;Solar;0.01
+Viet Nam;2015;Solar;0.01
+Viet Nam;2016;Solar;0.01
+Viet Nam;2017;Solar;0.01
+Viet Nam;2018;Solar;0.01
+Viet Nam;2019;Solar;2.25
+Viet Nam;2020;Solar;2.37
+Viet Nam;2021;Solar;10.62
+Virgin Islands (British);2000;Solar;0
+Virgin Islands (British);2001;Solar;0
+Virgin Islands (British);2002;Solar;0
+Virgin Islands (British);2003;Solar;0
+Virgin Islands (British);2004;Solar;0
+Virgin Islands (British);2005;Solar;0
+Virgin Islands (British);2006;Solar;0
+Virgin Islands (British);2007;Solar;0
+Virgin Islands (British);2008;Solar;0
+Virgin Islands (British);2009;Solar;0
+Virgin Islands (British);2010;Solar;0
+Virgin Islands (British);2011;Solar;0
+Virgin Islands (British);2012;Solar;0
+Virgin Islands (British);2013;Solar;0
+Virgin Islands (British);2014;Solar;0
+Virgin Islands (British);2015;Solar;0
+Virgin Islands (British);2016;Solar;0
+Virgin Islands (British);2017;Solar;0
+Virgin Islands (British);2018;Solar;0
+Virgin Islands (British);2019;Solar;0
+Virgin Islands (British);2020;Solar;0
+Virgin Islands (U.S.);2000;Solar;0
+Virgin Islands (U.S.);2001;Solar;0
+Virgin Islands (U.S.);2002;Solar;0
+Virgin Islands (U.S.);2003;Solar;0
+Virgin Islands (U.S.);2004;Solar;0
+Virgin Islands (U.S.);2005;Solar;0
+Virgin Islands (U.S.);2006;Solar;0
+Virgin Islands (U.S.);2007;Solar;0
+Virgin Islands (U.S.);2008;Solar;0
+Virgin Islands (U.S.);2009;Solar;0
+Virgin Islands (U.S.);2010;Solar;0
+Virgin Islands (U.S.);2011;Solar;0
+Virgin Islands (U.S.);2012;Solar;0
+Virgin Islands (U.S.);2013;Solar;0
+Virgin Islands (U.S.);2014;Solar;1.43
+Virgin Islands (U.S.);2015;Solar;1.45
+Virgin Islands (U.S.);2016;Solar;1.47
+Virgin Islands (U.S.);2017;Solar;1.89
+Virgin Islands (U.S.);2018;Solar;1.64
+Virgin Islands (U.S.);2019;Solar;1.61
+Virgin Islands (U.S.);2020;Solar;1.56
+World;2000;Solar;0.01
+World;2001;Solar;0.01
+World;2002;Solar;0.01
+World;2003;Solar;0.01
+World;2004;Solar;0.02
+World;2005;Solar;0.02
+World;2006;Solar;0.03
+World;2007;Solar;0.04
+World;2008;Solar;0.06
+World;2009;Solar;0.1
+World;2010;Solar;0.15
+World;2011;Solar;0.29
+World;2012;Solar;0.43
+World;2013;Solar;0.58
+World;2014;Solar;0.84
+World;2015;Solar;1.08
+World;2016;Solar;1.36
+World;2017;Solar;1.78
+World;2018;Solar;2.2
+World;2019;Solar;2.65
+World;2020;Solar;3.21
+World;2021;Solar;3.72
+Yemen;2000;Solar;0
+Yemen;2001;Solar;0
+Yemen;2002;Solar;0
+Yemen;2003;Solar;0
+Yemen;2004;Solar;0
+Yemen;2005;Solar;0
+Yemen;2006;Solar;0
+Yemen;2007;Solar;0
+Yemen;2008;Solar;0
+Yemen;2009;Solar;0
+Yemen;2010;Solar;0
+Yemen;2011;Solar;0
+Yemen;2012;Solar;0
+Yemen;2013;Solar;0
+Yemen;2014;Solar;0.14
+Yemen;2015;Solar;1.86
+Yemen;2016;Solar;3.33
+Yemen;2017;Solar;4.72
+Yemen;2018;Solar;14.02
+Yemen;2019;Solar;14.53
+Yemen;2020;Solar;15.38
+Zambia;2000;Solar;0
+Zambia;2001;Solar;0
+Zambia;2002;Solar;0
+Zambia;2003;Solar;0
+Zambia;2004;Solar;0
+Zambia;2005;Solar;0
+Zambia;2006;Solar;0
+Zambia;2007;Solar;0
+Zambia;2008;Solar;0
+Zambia;2009;Solar;0
+Zambia;2010;Solar;0
+Zambia;2011;Solar;0
+Zambia;2012;Solar;0
+Zambia;2013;Solar;0
+Zambia;2014;Solar;0
+Zambia;2015;Solar;0
+Zambia;2016;Solar;0
+Zambia;2017;Solar;0
+Zambia;2018;Solar;0
+Zambia;2019;Solar;0.75
+Zambia;2020;Solar;0.94
+Zimbabwe;2000;Solar;0
+Zimbabwe;2001;Solar;0
+Zimbabwe;2002;Solar;0
+Zimbabwe;2003;Solar;0
+Zimbabwe;2004;Solar;0
+Zimbabwe;2005;Solar;0
+Zimbabwe;2006;Solar;0
+Zimbabwe;2007;Solar;0
+Zimbabwe;2008;Solar;0
+Zimbabwe;2009;Solar;0
+Zimbabwe;2010;Solar;0
+Zimbabwe;2011;Solar;0
+Zimbabwe;2012;Solar;0
+Zimbabwe;2013;Solar;0
+Zimbabwe;2014;Solar;0
+Zimbabwe;2015;Solar;0.11
+Zimbabwe;2016;Solar;0.15
+Zimbabwe;2017;Solar;0.14
+Zimbabwe;2018;Solar;0.11
+Zimbabwe;2019;Solar;0.09
+Zimbabwe;2020;Solar;0.09

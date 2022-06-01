@@ -1,0 +1,708 @@
+﻿sep=;
+country_or_region;year;variable;generation_twh
+Spain;2000;Clean;96.7
+Spain;2001;Clean;113.01
+Spain;2002;Clean;96.19
+Spain;2003;Clean;117.63
+Spain;2004;Clean;113.74
+Spain;2005;Clean;99.81
+Spain;2006;Clean;112.28
+Spain;2007;Clean;113.4
+Spain;2008;Clean;121.12
+Spain;2009;Clean;126.84
+Spain;2010;Clean;159.76
+Spain;2011;Clean;145.25
+Spain;2012;Clean;148.44
+Spain;2013;Clean;168.15
+Spain;2014;Clean;167.57
+Spain;2015;Clean;154.29
+Spain;2016;Clean;163.26
+Spain;2017;Clean;145.97
+Spain;2018;Clean;159.65
+Spain;2019;Clean;159.34
+Spain;2020;Clean;172.09
+Spain;2021;Clean;180.87
+Sri Lanka;2000;Clean;3.17
+Sri Lanka;2001;Clean;3.09
+Sri Lanka;2002;Clean;2.68
+Sri Lanka;2003;Clean;3.27
+Sri Lanka;2004;Clean;2.94
+Sri Lanka;2005;Clean;3.43
+Sri Lanka;2006;Clean;3.86
+Sri Lanka;2007;Clean;3.94
+Sri Lanka;2008;Clean;4.17
+Sri Lanka;2009;Clean;3.95
+Sri Lanka;2010;Clean;5.69
+Sri Lanka;2011;Clean;4.72
+Sri Lanka;2012;Clean;3.48
+Sri Lanka;2013;Clean;7.14
+Sri Lanka;2014;Clean;4.88
+Sri Lanka;2015;Clean;6.35
+Sri Lanka;2016;Clean;4.67
+Sri Lanka;2017;Clean;4.68
+Sri Lanka;2018;Clean;6.98
+Sri Lanka;2019;Clean;5.22
+Sri Lanka;2020;Clean;5.6
+Sudan (the);2000;Clean;1.27
+Sudan (the);2001;Clean;1.37
+Sudan (the);2002;Clean;1.4
+Sudan (the);2003;Clean;1.31
+Sudan (the);2004;Clean;1.26
+Sudan (the);2005;Clean;1.42
+Sudan (the);2006;Clean;1.53
+Sudan (the);2007;Clean;1.63
+Sudan (the);2008;Clean;1.67
+Sudan (the);2009;Clean;3.38
+Sudan (the);2010;Clean;6.21
+Sudan (the);2011;Clean;6.51
+Sudan (the);2012;Clean;6.86
+Sudan (the);2013;Clean;8.46
+Sudan (the);2014;Clean;9.09
+Sudan (the);2015;Clean;8.83
+Sudan (the);2016;Clean;8.65
+Sudan (the);2017;Clean;9.91
+Sudan (the);2018;Clean;10.26
+Sudan (the);2019;Clean;8.48
+Sudan (the);2020;Clean;8.44
+Suriname;2000;Clean;0.71
+Suriname;2001;Clean;0.73
+Suriname;2002;Clean;0.74
+Suriname;2003;Clean;0.75
+Suriname;2004;Clean;0.76
+Suriname;2005;Clean;0.82
+Suriname;2006;Clean;0.86
+Suriname;2007;Clean;0.86
+Suriname;2008;Clean;0.86
+Suriname;2009;Clean;0.86
+Suriname;2010;Clean;1.2
+Suriname;2011;Clean;1.03
+Suriname;2012;Clean;0.82
+Suriname;2013;Clean;0.83
+Suriname;2014;Clean;0.56
+Suriname;2015;Clean;0.49
+Suriname;2016;Clean;0.8
+Suriname;2017;Clean;0.93
+Suriname;2018;Clean;1
+Suriname;2019;Clean;1.37
+Suriname;2020;Clean;1.37
+Sweden;2000;Clean;140.46
+Sweden;2001;Clean;155.43
+Sweden;2002;Clean;139.26
+Sweden;2003;Clean;126.15
+Sweden;2004;Clean;145.67
+Sweden;2005;Clean;153.61
+Sweden;2006;Clean;138.04
+Sweden;2007;Clean;144.4
+Sweden;2008;Clean;145.3
+Sweden;2009;Clean;131.98
+Sweden;2010;Clean;139.92
+Sweden;2011;Clean;144.56
+Sweden;2012;Clean;162.34
+Sweden;2013;Clean;149.15
+Sweden;2014;Clean;150.62
+Sweden;2015;Clean;158.85
+Sweden;2016;Clean;152.23
+Sweden;2017;Clean;160.76
+Sweden;2018;Clean;159.7
+Sweden;2019;Clean;165.07
+Sweden;2020;Clean;161.35
+Sweden;2021;Clean;168.64
+Switzerland;2000;Clean;59.12
+Switzerland;2001;Clean;63.91
+Switzerland;2002;Clean;58.34
+Switzerland;2003;Clean;58.22
+Switzerland;2004;Clean;56.73
+Switzerland;2005;Clean;50.96
+Switzerland;2006;Clean;54.83
+Switzerland;2007;Clean;59.05
+Switzerland;2008;Clean;59.68
+Switzerland;2009;Clean;59.3
+Switzerland;2010;Clean;58.87
+Switzerland;2011;Clean;55.99
+Switzerland;2012;Clean;60.76
+Switzerland;2013;Clean;61.24
+Switzerland;2014;Clean;62.67
+Switzerland;2015;Clean;58.89
+Switzerland;2016;Clean;53.87
+Switzerland;2017;Clean;53.04
+Switzerland;2018;Clean;58.82
+Switzerland;2019;Clean;63.01
+Switzerland;2020;Clean;63.69
+Switzerland;2021;Clean;58.01
+Syrian Arab Republic (the);2000;Clean;3.22
+Syrian Arab Republic (the);2001;Clean;3.4
+Syrian Arab Republic (the);2002;Clean;2.45
+Syrian Arab Republic (the);2003;Clean;2.75
+Syrian Arab Republic (the);2004;Clean;4.15
+Syrian Arab Republic (the);2005;Clean;4.31
+Syrian Arab Republic (the);2006;Clean;3.94
+Syrian Arab Republic (the);2007;Clean;3.47
+Syrian Arab Republic (the);2008;Clean;2.87
+Syrian Arab Republic (the);2009;Clean;1.88
+Syrian Arab Republic (the);2010;Clean;2.6
+Syrian Arab Republic (the);2011;Clean;3.28
+Syrian Arab Republic (the);2012;Clean;3.22
+Syrian Arab Republic (the);2013;Clean;2.98
+Syrian Arab Republic (the);2014;Clean;2.33
+Syrian Arab Republic (the);2015;Clean;0.42
+Syrian Arab Republic (the);2016;Clean;0.93
+Syrian Arab Republic (the);2017;Clean;0.76
+Syrian Arab Republic (the);2018;Clean;0.76
+Syrian Arab Republic (the);2019;Clean;1.26
+Syrian Arab Republic (the);2020;Clean;0.76
+Taiwan (Province of China);2000;Clean;42.53
+Taiwan (Province of China);2001;Clean;40.46
+Taiwan (Province of China);2002;Clean;42.46
+Taiwan (Province of China);2003;Clean;42.13
+Taiwan (Province of China);2004;Clean;42.89
+Taiwan (Province of China);2005;Clean;44.19
+Taiwan (Province of China);2006;Clean;44.4
+Taiwan (Province of China);2007;Clean;45.55
+Taiwan (Province of China);2008;Clean;45.87
+Taiwan (Province of China);2009;Clean;46.05
+Taiwan (Province of China);2010;Clean;46.83
+Taiwan (Province of China);2011;Clean;47.67
+Taiwan (Province of China);2012;Clean;47.7
+Taiwan (Province of China);2013;Clean;49.19
+Taiwan (Province of China);2014;Clean;48.99
+Taiwan (Province of China);2015;Clean;43.86
+Taiwan (Province of China);2016;Clean;41.42
+Taiwan (Province of China);2017;Clean;32.18
+Taiwan (Province of China);2018;Clean;37.45
+Taiwan (Province of China);2019;Clean;44.6
+Taiwan (Province of China);2020;Clean;48.09
+Taiwan (Province of China);2021;Clean;48.73
+Tajikistan;2000;Clean;13.77
+Tajikistan;2001;Clean;14.06
+Tajikistan;2002;Clean;15.01
+Tajikistan;2003;Clean;16.17
+Tajikistan;2004;Clean;16.18
+Tajikistan;2005;Clean;16.8
+Tajikistan;2006;Clean;16.53
+Tajikistan;2007;Clean;16.94
+Tajikistan;2008;Clean;16.64
+Tajikistan;2009;Clean;15.74
+Tajikistan;2010;Clean;16.24
+Tajikistan;2011;Clean;16.04
+Tajikistan;2012;Clean;16.73
+Tajikistan;2013;Clean;16.9
+Tajikistan;2014;Clean;15.84
+Tajikistan;2015;Clean;16.83
+Tajikistan;2016;Clean;16.47
+Tajikistan;2017;Clean;16.96
+Tajikistan;2018;Clean;18.21
+Tajikistan;2019;Clean;18.98
+Tajikistan;2020;Clean;17
+Tajikistan;2021;Clean;17.43
+Thailand;2000;Clean;6.46
+Thailand;2001;Clean;6.83
+Thailand;2002;Clean;8.1
+Thailand;2003;Clean;8.38
+Thailand;2004;Clean;7.71
+Thailand;2005;Clean;7.49
+Thailand;2006;Clean;9.91
+Thailand;2007;Clean;10.27
+Thailand;2008;Clean;9.04
+Thailand;2009;Clean;9.2
+Thailand;2010;Clean;8.71
+Thailand;2011;Clean;11.98
+Thailand;2012;Clean;13.65
+Thailand;2013;Clean;12.43
+Thailand;2014;Clean;13.46
+Thailand;2015;Clean;13.28
+Thailand;2016;Clean;15.92
+Thailand;2017;Clean;19.35
+Thailand;2018;Clean;25.07
+Thailand;2019;Clean;29.16
+Thailand;2020;Clean;26.16
+Thailand;2021;Clean;27.36
+Togo;2000;Clean;0.1
+Togo;2001;Clean;0.05
+Togo;2002;Clean;0.09
+Togo;2003;Clean;0.12
+Togo;2004;Clean;0.08
+Togo;2005;Clean;0.07
+Togo;2006;Clean;0.09
+Togo;2007;Clean;0.09
+Togo;2008;Clean;0.09
+Togo;2009;Clean;0.11
+Togo;2010;Clean;0.09
+Togo;2011;Clean;0.1
+Togo;2012;Clean;0.09
+Togo;2013;Clean;0.04
+Togo;2014;Clean;0.12
+Togo;2015;Clean;0.06
+Togo;2016;Clean;0.2
+Togo;2017;Clean;0.1
+Togo;2018;Clean;0
+Togo;2019;Clean;0.09
+Togo;2020;Clean;0.09
+Tonga;2000;Clean;0
+Tonga;2001;Clean;0
+Tonga;2002;Clean;0
+Tonga;2003;Clean;0
+Tonga;2004;Clean;0
+Tonga;2005;Clean;0
+Tonga;2006;Clean;0
+Tonga;2007;Clean;0
+Tonga;2008;Clean;0
+Tonga;2009;Clean;0
+Tonga;2010;Clean;0
+Tonga;2011;Clean;0
+Tonga;2012;Clean;0
+Tonga;2013;Clean;0
+Tonga;2014;Clean;0
+Tonga;2015;Clean;0
+Tonga;2016;Clean;0
+Tonga;2017;Clean;0
+Tonga;2018;Clean;0
+Tonga;2019;Clean;0
+Tonga;2020;Clean;0
+Trinidad and Tobago;2000;Clean;0.02
+Trinidad and Tobago;2001;Clean;0.02
+Trinidad and Tobago;2002;Clean;0.02
+Trinidad and Tobago;2003;Clean;0.03
+Trinidad and Tobago;2004;Clean;0.03
+Trinidad and Tobago;2005;Clean;0.03
+Trinidad and Tobago;2006;Clean;0.03
+Trinidad and Tobago;2007;Clean;0.03
+Trinidad and Tobago;2008;Clean;0
+Trinidad and Tobago;2009;Clean;0
+Trinidad and Tobago;2010;Clean;0
+Trinidad and Tobago;2011;Clean;0
+Trinidad and Tobago;2012;Clean;0
+Trinidad and Tobago;2013;Clean;0
+Trinidad and Tobago;2014;Clean;0
+Trinidad and Tobago;2015;Clean;0
+Trinidad and Tobago;2016;Clean;0
+Trinidad and Tobago;2017;Clean;0
+Trinidad and Tobago;2018;Clean;0
+Trinidad and Tobago;2019;Clean;0
+Trinidad and Tobago;2020;Clean;0
+Tunisia;2000;Clean;0.08
+Tunisia;2001;Clean;0.07
+Tunisia;2002;Clean;0.09
+Tunisia;2003;Clean;0.19
+Tunisia;2004;Clean;0.19
+Tunisia;2005;Clean;0.18
+Tunisia;2006;Clean;0.13
+Tunisia;2007;Clean;0.09
+Tunisia;2008;Clean;0.07
+Tunisia;2009;Clean;0.18
+Tunisia;2010;Clean;0.19
+Tunisia;2011;Clean;0.16
+Tunisia;2012;Clean;0.31
+Tunisia;2013;Clean;0.43
+Tunisia;2014;Clean;0.59
+Tunisia;2015;Clean;0.58
+Tunisia;2016;Clean;0.63
+Tunisia;2017;Clean;0.6
+Tunisia;2018;Clean;0.64
+Tunisia;2019;Clean;0.82
+Tunisia;2020;Clean;0.81
+Tunisia;2021;Clean;0.83
+Turkey;2000;Clean;31.16
+Turkey;2001;Clean;24.34
+Turkey;2002;Clean;33.96
+Turkey;2003;Clean;35.56
+Turkey;2004;Clean;46.31
+Turkey;2005;Clean;39.74
+Turkey;2006;Clean;44.52
+Turkey;2007;Clean;36.46
+Turkey;2008;Clean;34.42
+Turkey;2009;Clean;38.15
+Turkey;2010;Clean;55.72
+Turkey;2011;Clean;58.09
+Turkey;2012;Clean;65.21
+Turkey;2013;Clean;69.22
+Turkey;2014;Clean;52.62
+Turkey;2015;Clean;83.65
+Turkey;2016;Clean;90.24
+Turkey;2017;Clean;87.24
+Turkey;2018;Clean;97.77
+Turkey;2019;Clean;132.26
+Turkey;2020;Clean;128.34
+Turkey;2021;Clean;117.04
+Turkmenistan;2000;Clean;0
+Turkmenistan;2001;Clean;0
+Turkmenistan;2002;Clean;0
+Turkmenistan;2003;Clean;0
+Turkmenistan;2004;Clean;0
+Turkmenistan;2005;Clean;0
+Turkmenistan;2006;Clean;0
+Turkmenistan;2007;Clean;0
+Turkmenistan;2008;Clean;0
+Turkmenistan;2009;Clean;0
+Turkmenistan;2010;Clean;0
+Turkmenistan;2011;Clean;0
+Turkmenistan;2012;Clean;0
+Turkmenistan;2013;Clean;0
+Turkmenistan;2014;Clean;0
+Turkmenistan;2015;Clean;0
+Turkmenistan;2016;Clean;0
+Turkmenistan;2017;Clean;0
+Turkmenistan;2018;Clean;0
+Turkmenistan;2019;Clean;0
+Turkmenistan;2020;Clean;0
+Turks and Caicos Islands (the);2000;Clean;0
+Turks and Caicos Islands (the);2001;Clean;0
+Turks and Caicos Islands (the);2002;Clean;0
+Turks and Caicos Islands (the);2003;Clean;0
+Turks and Caicos Islands (the);2004;Clean;0
+Turks and Caicos Islands (the);2005;Clean;0
+Turks and Caicos Islands (the);2006;Clean;0
+Turks and Caicos Islands (the);2007;Clean;0
+Turks and Caicos Islands (the);2008;Clean;0
+Turks and Caicos Islands (the);2009;Clean;0
+Turks and Caicos Islands (the);2010;Clean;0
+Turks and Caicos Islands (the);2011;Clean;0
+Turks and Caicos Islands (the);2012;Clean;0
+Turks and Caicos Islands (the);2013;Clean;0
+Turks and Caicos Islands (the);2014;Clean;0
+Turks and Caicos Islands (the);2015;Clean;0
+Turks and Caicos Islands (the);2016;Clean;0
+Turks and Caicos Islands (the);2017;Clean;0
+Turks and Caicos Islands (the);2018;Clean;0
+Turks and Caicos Islands (the);2019;Clean;0
+Turks and Caicos Islands (the);2020;Clean;0
+Uganda;2000;Clean;1.55
+Uganda;2001;Clean;1.55
+Uganda;2002;Clean;1.67
+Uganda;2003;Clean;1.75
+Uganda;2004;Clean;1.89
+Uganda;2005;Clean;1.84
+Uganda;2006;Clean;1.17
+Uganda;2007;Clean;1.41
+Uganda;2008;Clean;1.7
+Uganda;2009;Clean;1.51
+Uganda;2010;Clean;1.61
+Uganda;2011;Clean;1.62
+Uganda;2012;Clean;1.6
+Uganda;2013;Clean;2.5
+Uganda;2014;Clean;2.55
+Uganda;2015;Clean;2.62
+Uganda;2016;Clean;3.49
+Uganda;2017;Clean;3.67
+Uganda;2018;Clean;4.01
+Uganda;2019;Clean;5.27
+Uganda;2020;Clean;4.38
+Ukraine;2000;Clean;88.62
+Ukraine;2001;Clean;88.22
+Ukraine;2002;Clean;87.64
+Ukraine;2003;Clean;90.68
+Ukraine;2004;Clean;98.8
+Ukraine;2005;Clean;101.16
+Ukraine;2006;Clean;103.14
+Ukraine;2007;Clean;103.01
+Ukraine;2008;Clean;101.66
+Ukraine;2009;Clean;95.04
+Ukraine;2010;Clean;102.54
+Ukraine;2011;Clean;101.45
+Ukraine;2012;Clean;101.37
+Ukraine;2013;Clean;98.32
+Ukraine;2014;Clean;98.56
+Ukraine;2015;Clean;94.73
+Ukraine;2016;Clean;90.2
+Ukraine;2017;Clean;96.46
+Ukraine;2018;Clean;97.42
+Ukraine;2019;Clean;94.87
+Ukraine;2020;Clean;93.76
+Ukraine;2021;Clean;108.03
+United Arab Emirates;2000;Clean;0
+United Arab Emirates;2001;Clean;0
+United Arab Emirates;2002;Clean;0
+United Arab Emirates;2003;Clean;0
+United Arab Emirates;2004;Clean;0
+United Arab Emirates;2005;Clean;0
+United Arab Emirates;2006;Clean;0
+United Arab Emirates;2007;Clean;0
+United Arab Emirates;2008;Clean;0
+United Arab Emirates;2009;Clean;0.01
+United Arab Emirates;2010;Clean;0.02
+United Arab Emirates;2011;Clean;0.03
+United Arab Emirates;2012;Clean;0.04
+United Arab Emirates;2013;Clean;0.1
+United Arab Emirates;2014;Clean;0.31
+United Arab Emirates;2015;Clean;0.3
+United Arab Emirates;2016;Clean;0.32
+United Arab Emirates;2017;Clean;0.74
+United Arab Emirates;2018;Clean;1.31
+United Arab Emirates;2019;Clean;3.56
+United Arab Emirates;2020;Clean;5.35
+United Kingdom;2000;Clean;95.04
+United Kingdom;2001;Clean;99.65
+United Kingdom;2002;Clean;98.98
+United Kingdom;2003;Clean;99.31
+United Kingdom;2004;Clean;94.14
+United Kingdom;2005;Clean;98.55
+United Kingdom;2006;Clean;93.56
+United Kingdom;2007;Clean;82.72
+United Kingdom;2008;Clean;74.34
+United Kingdom;2009;Clean;94.35
+United Kingdom;2010;Clean;88.32
+United Kingdom;2011;Clean;104.18
+United Kingdom;2012;Clean;111.64
+United Kingdom;2013;Clean;123.82
+United Kingdom;2014;Clean;128.27
+United Kingdom;2015;Clean;152.91
+United Kingdom;2016;Clean;154.72
+United Kingdom;2017;Clean;169.19
+United Kingdom;2018;Clean;175.09
+United Kingdom;2019;Clean;176.66
+United Kingdom;2020;Clean;182.79
+United Kingdom;2021;Clean;168.4
+United States of America;2000;Clean;1104.82
+United States of America;2001;Clean;1047.74
+United States of America;2002;Clean;1114.75
+United States of America;2003;Clean;1110.48
+United States of America;2004;Clean;1131.53
+United States of America;2005;Clean;1133.08
+United States of America;2006;Clean;1166.44
+United States of America;2007;Clean;1152.27
+United States of America;2008;Clean;1180.84
+United States of America;2009;Clean;1211.95
+United States of America;2010;Clean;1228.84
+United States of America;2011;Clean;1297.12
+United States of America;2012;Clean;1258.95
+United States of America;2013;Clean;1306.41
+United States of America;2014;Clean;1340.81
+United States of America;2015;Clean;1350.47
+United States of America;2016;Clean;1427.27
+United States of America;2017;Clean;1509.03
+United States of America;2018;Clean;1537.53
+United States of America;2019;Clean;1567.77
+United States of America;2020;Clean;1609.08
+United States of America;2021;Clean;1648.45
+Uruguay;2000;Clean;7
+Uruguay;2001;Clean;9.1
+Uruguay;2002;Clean;9.44
+Uruguay;2003;Clean;8.45
+Uruguay;2004;Clean;4.77
+Uruguay;2005;Clean;6.66
+Uruguay;2006;Clean;3.6
+Uruguay;2007;Clean;8.31
+Uruguay;2008;Clean;5.49
+Uruguay;2009;Clean;6.07
+Uruguay;2010;Clean;9.29
+Uruguay;2011;Clean;7.58
+Uruguay;2012;Clean;6.75
+Uruguay;2013;Clean;9.41
+Uruguay;2014;Clean;11.2
+Uruguay;2015;Clean;11.68
+Uruguay;2016;Clean;12.41
+Uruguay;2017;Clean;12.94
+Uruguay;2018;Clean;13.16
+Uruguay;2019;Clean;13.9
+Uruguay;2020;Clean;10.82
+Uzbekistan;2000;Clean;5.82
+Uzbekistan;2001;Clean;5.9
+Uzbekistan;2002;Clean;6.12
+Uzbekistan;2003;Clean;7.54
+Uzbekistan;2004;Clean;8.92
+Uzbekistan;2005;Clean;8.84
+Uzbekistan;2006;Clean;4.65
+Uzbekistan;2007;Clean;4.61
+Uzbekistan;2008;Clean;4.44
+Uzbekistan;2009;Clean;6.42
+Uzbekistan;2010;Clean;8.11
+Uzbekistan;2011;Clean;5.65
+Uzbekistan;2012;Clean;6.59
+Uzbekistan;2013;Clean;5.65
+Uzbekistan;2014;Clean;6.01
+Uzbekistan;2015;Clean;7
+Uzbekistan;2016;Clean;7.25
+Uzbekistan;2017;Clean;8.35
+Uzbekistan;2018;Clean;5.85
+Uzbekistan;2019;Clean;6.51
+Uzbekistan;2020;Clean;6.91
+Vanuatu;2000;Clean;0
+Vanuatu;2001;Clean;0
+Vanuatu;2002;Clean;0
+Vanuatu;2003;Clean;0
+Vanuatu;2004;Clean;0
+Vanuatu;2005;Clean;0
+Vanuatu;2006;Clean;0
+Vanuatu;2007;Clean;0
+Vanuatu;2008;Clean;0
+Vanuatu;2009;Clean;0
+Vanuatu;2010;Clean;0
+Vanuatu;2011;Clean;0.01
+Vanuatu;2012;Clean;0.01
+Vanuatu;2013;Clean;0.02
+Vanuatu;2014;Clean;0.02
+Vanuatu;2015;Clean;0.02
+Vanuatu;2016;Clean;0.02
+Vanuatu;2017;Clean;0.01
+Vanuatu;2018;Clean;0.02
+Vanuatu;2019;Clean;0.02
+Vanuatu;2020;Clean;0.02
+Venezuela (Bolivarian Republic of);2000;Clean;62.2
+Venezuela (Bolivarian Republic of);2001;Clean;59.85
+Venezuela (Bolivarian Republic of);2002;Clean;58.94
+Venezuela (Bolivarian Republic of);2003;Clean;59.93
+Venezuela (Bolivarian Republic of);2004;Clean;69.37
+Venezuela (Bolivarian Republic of);2005;Clean;76.46
+Venezuela (Bolivarian Republic of);2006;Clean;80.78
+Venezuela (Bolivarian Republic of);2007;Clean;82.23
+Venezuela (Bolivarian Republic of);2008;Clean;85.97
+Venezuela (Bolivarian Republic of);2009;Clean;85.1
+Venezuela (Bolivarian Republic of);2010;Clean;76.01
+Venezuela (Bolivarian Republic of);2011;Clean;82.83
+Venezuela (Bolivarian Republic of);2012;Clean;81.24
+Venezuela (Bolivarian Republic of);2013;Clean;82.8
+Venezuela (Bolivarian Republic of);2014;Clean;63.74
+Venezuela (Bolivarian Republic of);2015;Clean;74.25
+Venezuela (Bolivarian Republic of);2016;Clean;62.43
+Venezuela (Bolivarian Republic of);2017;Clean;60
+Venezuela (Bolivarian Republic of);2018;Clean;57.67
+Venezuela (Bolivarian Republic of);2019;Clean;72.1
+Venezuela (Bolivarian Republic of);2020;Clean;72.1
+Viet Nam;2000;Clean;14.4
+Viet Nam;2001;Clean;18.03
+Viet Nam;2002;Clean;18.02
+Viet Nam;2003;Clean;18.8
+Viet Nam;2004;Clean;17.49
+Viet Nam;2005;Clean;20.89
+Viet Nam;2006;Clean;20.26
+Viet Nam;2007;Clean;22.37
+Viet Nam;2008;Clean;25.78
+Viet Nam;2009;Clean;29.75
+Viet Nam;2010;Clean;27.39
+Viet Nam;2011;Clean;40.66
+Viet Nam;2012;Clean;52.43
+Viet Nam;2013;Clean;51.6
+Viet Nam;2014;Clean;59.4
+Viet Nam;2015;Clean;56.8
+Viet Nam;2016;Clean;65.35
+Viet Nam;2017;Clean;88.53
+Viet Nam;2018;Clean;83.87
+Viet Nam;2019;Clean;57.52
+Viet Nam;2020;Clean;57.6
+Viet Nam;2021;Clean;79.05
+Virgin Islands (British);2000;Clean;0
+Virgin Islands (British);2001;Clean;0
+Virgin Islands (British);2002;Clean;0
+Virgin Islands (British);2003;Clean;0
+Virgin Islands (British);2004;Clean;0
+Virgin Islands (British);2005;Clean;0
+Virgin Islands (British);2006;Clean;0
+Virgin Islands (British);2007;Clean;0
+Virgin Islands (British);2008;Clean;0
+Virgin Islands (British);2009;Clean;0
+Virgin Islands (British);2010;Clean;0
+Virgin Islands (British);2011;Clean;0
+Virgin Islands (British);2012;Clean;0
+Virgin Islands (British);2013;Clean;0
+Virgin Islands (British);2014;Clean;0
+Virgin Islands (British);2015;Clean;0
+Virgin Islands (British);2016;Clean;0
+Virgin Islands (British);2017;Clean;0
+Virgin Islands (British);2018;Clean;0
+Virgin Islands (British);2019;Clean;0
+Virgin Islands (British);2020;Clean;0
+Virgin Islands (U.S.);2000;Clean;0
+Virgin Islands (U.S.);2001;Clean;0
+Virgin Islands (U.S.);2002;Clean;0
+Virgin Islands (U.S.);2003;Clean;0
+Virgin Islands (U.S.);2004;Clean;0
+Virgin Islands (U.S.);2005;Clean;0
+Virgin Islands (U.S.);2006;Clean;0
+Virgin Islands (U.S.);2007;Clean;0
+Virgin Islands (U.S.);2008;Clean;0
+Virgin Islands (U.S.);2009;Clean;0
+Virgin Islands (U.S.);2010;Clean;0
+Virgin Islands (U.S.);2011;Clean;0
+Virgin Islands (U.S.);2012;Clean;0
+Virgin Islands (U.S.);2013;Clean;0
+Virgin Islands (U.S.);2014;Clean;0.01
+Virgin Islands (U.S.);2015;Clean;0.01
+Virgin Islands (U.S.);2016;Clean;0.01
+Virgin Islands (U.S.);2017;Clean;0.01
+Virgin Islands (U.S.);2018;Clean;0.01
+Virgin Islands (U.S.);2019;Clean;0.01
+Virgin Islands (U.S.);2020;Clean;0.01
+World;2000;Clean;5357.2
+World;2001;Clean;5363.98
+World;2002;Clean;5459.68
+World;2003;Clean;5462.22
+World;2004;Clean;5800.82
+World;2005;Clean;5954.91
+World;2006;Clean;6136.3
+World;2007;Clean;6189.57
+World;2008;Clean;6432.48
+World;2009;Clean;6485.56
+World;2010;Clean;6855.86
+World;2011;Clean;6959.42
+World;2012;Clean;7102.76
+World;2013;Clean;7428.83
+World;2014;Clean;7750.6
+World;2015;Clean;7997.22
+World;2016;Clean;8378.8
+World;2017;Clean;8763.66
+World;2018;Clean;9247.83
+World;2019;Clean;9709.11
+World;2020;Clean;10065.68
+World;2021;Clean;10548.47
+Yemen;2000;Clean;0
+Yemen;2001;Clean;0
+Yemen;2002;Clean;0
+Yemen;2003;Clean;0
+Yemen;2004;Clean;0
+Yemen;2005;Clean;0
+Yemen;2006;Clean;0
+Yemen;2007;Clean;0
+Yemen;2008;Clean;0
+Yemen;2009;Clean;0
+Yemen;2010;Clean;0
+Yemen;2011;Clean;0
+Yemen;2012;Clean;0
+Yemen;2013;Clean;0
+Yemen;2014;Clean;0.01
+Yemen;2015;Clean;0.11
+Yemen;2016;Clean;0.15
+Yemen;2017;Clean;0.18
+Yemen;2018;Clean;0.46
+Yemen;2019;Clean;0.5
+Yemen;2020;Clean;0.5
+Zambia;2000;Clean;7.69
+Zambia;2001;Clean;7.83
+Zambia;2002;Clean;8.03
+Zambia;2003;Clean;8.18
+Zambia;2004;Clean;8.39
+Zambia;2005;Clean;8.8
+Zambia;2006;Clean;9.58
+Zambia;2007;Clean;9.54
+Zambia;2008;Clean;9.45
+Zambia;2009;Clean;9.81
+Zambia;2010;Clean;10.36
+Zambia;2011;Clean;11.4
+Zambia;2012;Clean;12.26
+Zambia;2013;Clean;13.18
+Zambia;2014;Clean;14.01
+Zambia;2015;Clean;13.01
+Zambia;2016;Clean;10.97
+Zambia;2017;Clean;12.52
+Zambia;2018;Clean;13.74
+Zambia;2019;Clean;13.96
+Zambia;2020;Clean;13.98
+Zimbabwe;2000;Clean;3.44
+Zimbabwe;2001;Clean;3.25
+Zimbabwe;2002;Clean;4.14
+Zimbabwe;2003;Clean;5.56
+Zimbabwe;2004;Clean;5.78
+Zimbabwe;2005;Clean;5.2
+Zimbabwe;2006;Clean;5.44
+Zimbabwe;2007;Clean;5.48
+Zimbabwe;2008;Clean;5.79
+Zimbabwe;2009;Clean;5.54
+Zimbabwe;2010;Clean;5.95
+Zimbabwe;2011;Clean;5.51
+Zimbabwe;2012;Clean;5.68
+Zimbabwe;2013;Clean;5.36
+Zimbabwe;2014;Clean;5.79
+Zimbabwe;2015;Clean;5.37
+Zimbabwe;2016;Clean;3.32
+Zimbabwe;2017;Clean;4.26
+Zimbabwe;2018;Clean;5.4
+Zimbabwe;2019;Clean;7.65
+Zimbabwe;2020;Clean;7.63

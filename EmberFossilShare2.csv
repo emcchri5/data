@@ -1,0 +1,708 @@
+﻿sep=;
+country_or_region;year;variable;share_of_generation_pct
+Spain;2000;Fossil;56.22
+Spain;2001;Fossil;51.51
+Spain;2002;Fossil;59.91
+Spain;2003;Fossil;54.28
+Spain;2004;Fossil;58.44
+Spain;2005;Fossil;64.91
+Spain;2006;Fossil;61.96
+Spain;2007;Fossil;62.39
+Spain;2008;Fossil;61.01
+Spain;2009;Fossil;56.49
+Spain;2010;Fossil;46.42
+Spain;2011;Fossil;50.15
+Spain;2012;Fossil;49.47
+Spain;2013;Fossil;40.26
+Spain;2014;Fossil;39.04
+Spain;2015;Fossil;44.39
+Spain;2016;Fossil;39.79
+Spain;2017;Fossil;46.52
+Spain;2018;Fossil;41.27
+Spain;2019;Fossil;41.18
+Spain;2020;Fossil;33.75
+Spain;2021;Fossil;32.57
+Sri Lanka;2000;Fossil;50.85
+Sri Lanka;2001;Fossil;52.68
+Sri Lanka;2002;Fossil;60.59
+Sri Lanka;2003;Fossil;55.87
+Sri Lanka;2004;Fossil;62.69
+Sri Lanka;2005;Fossil;61.59
+Sri Lanka;2006;Fossil;54.1
+Sri Lanka;2007;Fossil;58.57
+Sri Lanka;2008;Fossil;56.65
+Sri Lanka;2009;Fossil;58.9
+Sri Lanka;2010;Fossil;45.5
+Sri Lanka;2011;Fossil;57.82
+Sri Lanka;2012;Fossil;69.39
+Sri Lanka;2013;Fossil;38.77
+Sri Lanka;2014;Fossil;59.2
+Sri Lanka;2015;Fossil;50.04
+Sri Lanka;2016;Fossil;65.82
+Sri Lanka;2017;Fossil;68.21
+Sri Lanka;2018;Fossil;52.99
+Sri Lanka;2019;Fossil;65.95
+Sri Lanka;2020;Fossil;63.18
+Sudan (the);2000;Fossil;50.58
+Sudan (the);2001;Fossil;51.76
+Sudan (the);2002;Fossil;54.55
+Sudan (the);2003;Fossil;60.78
+Sudan (the);2004;Fossil;63.59
+Sudan (the);2005;Fossil;62.63
+Sudan (the);2006;Fossil;65.77
+Sudan (the);2007;Fossil;67.07
+Sudan (the);2008;Fossil;69.07
+Sudan (the);2009;Fossil;47.35
+Sudan (the);2010;Fossil;17.08
+Sudan (the);2011;Fossil;22.4
+Sudan (the);2012;Fossil;26.47
+Sudan (the);2013;Fossil;17.3
+Sudan (the);2014;Fossil;19.27
+Sudan (the);2015;Fossil;31.07
+Sudan (the);2016;Fossil;38.61
+Sudan (the);2017;Fossil;34.84
+Sudan (the);2018;Fossil;35.47
+Sudan (the);2019;Fossil;40.62
+Sudan (the);2020;Fossil;39.54
+Suriname;2000;Fossil;49.29
+Suriname;2001;Fossil;48.59
+Suriname;2002;Fossil;48.25
+Suriname;2003;Fossil;47.92
+Suriname;2004;Fossil;47.59
+Suriname;2005;Fossil;46.05
+Suriname;2006;Fossil;44.87
+Suriname;2007;Fossil;44.87
+Suriname;2008;Fossil;44.87
+Suriname;2009;Fossil;44.87
+Suriname;2010;Fossil;28.57
+Suriname;2011;Fossil;45.5
+Suriname;2012;Fossil;56.61
+Suriname;2013;Fossil;56.77
+Suriname;2014;Fossil;70.98
+Suriname;2015;Fossil;74.87
+Suriname;2016;Fossil;58.33
+Suriname;2017;Fossil;50.53
+Suriname;2018;Fossil;47.09
+Suriname;2019;Fossil;41.95
+Suriname;2020;Fossil;40.69
+Sweden;2000;Fossil;3.28
+Sweden;2001;Fossil;3.82
+Sweden;2002;Fossil;5.07
+Sweden;2003;Fossil;6.83
+Sweden;2004;Fossil;3.97
+Sweden;2005;Fossil;3.01
+Sweden;2006;Fossil;3.65
+Sweden;2007;Fossil;2.98
+Sweden;2008;Fossil;3.06
+Sweden;2009;Fossil;3.38
+Sweden;2010;Fossil;5.75
+Sweden;2011;Fossil;3.81
+Sweden;2012;Fossil;2.46
+Sweden;2013;Fossil;2.54
+Sweden;2014;Fossil;1.9
+Sweden;2015;Fossil;1.95
+Sweden;2016;Fossil;2.35
+Sweden;2017;Fossil;2.11
+Sweden;2018;Fossil;2.24
+Sweden;2019;Fossil;1.98
+Sweden;2020;Fossil;1.49
+Sweden;2021;Fossil;1.43
+Switzerland;2000;Fossil;4.26
+Switzerland;2001;Fossil;4.08
+Switzerland;2002;Fossil;4.56
+Switzerland;2003;Fossil;4.68
+Switzerland;2004;Fossil;4.9
+Switzerland;2005;Fossil;5.51
+Switzerland;2006;Fossil;5.35
+Switzerland;2007;Fossil;4.85
+Switzerland;2008;Fossil;4.85
+Switzerland;2009;Fossil;4.82
+Switzerland;2010;Fossil;5.32
+Switzerland;2011;Fossil;5.61
+Switzerland;2012;Fossil;5.45
+Switzerland;2013;Fossil;5.36
+Switzerland;2014;Fossil;5.1
+Switzerland;2015;Fossil;5.34
+Switzerland;2016;Fossil;6.39
+Switzerland;2017;Fossil;6.46
+Switzerland;2018;Fossil;5.68
+Switzerland;2019;Fossil;5.38
+Switzerland;2020;Fossil;5.27
+Switzerland;2021;Fossil;5.75
+Syrian Arab Republic (the);2000;Fossil;86.53
+Syrian Arab Republic (the);2001;Fossil;86.57
+Syrian Arab Republic (the);2002;Fossil;90.75
+Syrian Arab Republic (the);2003;Fossil;90.15
+Syrian Arab Republic (the);2004;Fossil;86.34
+Syrian Arab Republic (the);2005;Fossil;86.97
+Syrian Arab Republic (the);2006;Fossil;88.83
+Syrian Arab Republic (the);2007;Fossil;90.5
+Syrian Arab Republic (the);2008;Fossil;92.59
+Syrian Arab Republic (the);2009;Fossil;95.39
+Syrian Arab Republic (the);2010;Fossil;94.06
+Syrian Arab Republic (the);2011;Fossil;91.7
+Syrian Arab Republic (the);2012;Fossil;90.29
+Syrian Arab Republic (the);2013;Fossil;87.48
+Syrian Arab Republic (the);2014;Fossil;88.41
+Syrian Arab Republic (the);2015;Fossil;97.52
+Syrian Arab Republic (the);2016;Fossil;94.59
+Syrian Arab Republic (the);2017;Fossil;95.63
+Syrian Arab Republic (the);2018;Fossil;95.57
+Syrian Arab Republic (the);2019;Fossil;92.64
+Syrian Arab Republic (the);2020;Fossil;95.19
+Taiwan (Province of China);2000;Fossil;75.34
+Taiwan (Province of China);2001;Fossil;77.08
+Taiwan (Province of China);2002;Fossil;77.34
+Taiwan (Province of China);2003;Fossil;78.59
+Taiwan (Province of China);2004;Fossil;78.73
+Taiwan (Province of China);2005;Fossil;79.06
+Taiwan (Province of China);2006;Fossil;79.7
+Taiwan (Province of China);2007;Fossil;79.84
+Taiwan (Province of China);2008;Fossil;79.35
+Taiwan (Province of China);2009;Fossil;78.48
+Taiwan (Province of China);2010;Fossil;79.69
+Taiwan (Province of China);2011;Fossil;79.76
+Taiwan (Province of China);2012;Fossil;79.62
+Taiwan (Province of China);2013;Fossil;79.22
+Taiwan (Province of China);2014;Fossil;79.91
+Taiwan (Province of China);2015;Fossil;81.87
+Taiwan (Province of China);2016;Fossil;83.2
+Taiwan (Province of China);2017;Fossil;87.24
+Taiwan (Province of China);2018;Fossil;85.44
+Taiwan (Province of China);2019;Fossil;83.46
+Taiwan (Province of China);2020;Fossil;82.84
+Taiwan (Province of China);2021;Fossil;83.3
+Tajikistan;2000;Fossil;1.5
+Tajikistan;2001;Fossil;1.12
+Tajikistan;2002;Fossil;0.86
+Tajikistan;2003;Fossil;0.98
+Tajikistan;2004;Fossil;0.86
+Tajikistan;2005;Fossil;0.77
+Tajikistan;2006;Fossil;1.43
+Tajikistan;2007;Fossil;2.2
+Tajikistan;2008;Fossil;2.06
+Tajikistan;2009;Fossil;1.38
+Tajikistan;2010;Fossil;0.18
+Tajikistan;2011;Fossil;0.18
+Tajikistan;2012;Fossil;0.42
+Tajikistan;2013;Fossil;0.3
+Tajikistan;2014;Fossil;0.93
+Tajikistan;2015;Fossil;0.88
+Tajikistan;2016;Fossil;3.29
+Tajikistan;2017;Fossil;5.2
+Tajikistan;2018;Fossil;6.52
+Tajikistan;2019;Fossil;6.96
+Tajikistan;2020;Fossil;8.7
+Tajikistan;2021;Fossil;8.69
+Thailand;2000;Fossil;92.79
+Thailand;2001;Fossil;92.87
+Thailand;2002;Fossil;92.03
+Thailand;2003;Fossil;92.31
+Thailand;2004;Fossil;93.42
+Thailand;2005;Fossil;93.91
+Thailand;2006;Fossil;92.34
+Thailand;2007;Fossil;92.24
+Thailand;2008;Fossil;93.38
+Thailand;2009;Fossil;93.3
+Thailand;2010;Fossil;94.22
+Thailand;2011;Fossil;91.86
+Thailand;2012;Fossil;91.32
+Thailand;2013;Fossil;92.26
+Thailand;2014;Fossil;91.73
+Thailand;2015;Fossil;92.03
+Thailand;2016;Fossil;91.05
+Thailand;2017;Fossil;88.78
+Thailand;2018;Fossil;85.5
+Thailand;2019;Fossil;83.91
+Thailand;2020;Fossil;85.2
+Thailand;2021;Fossil;84.49
+Togo;2000;Fossil;41.18
+Togo;2001;Fossil;58.33
+Togo;2002;Fossil;40
+Togo;2003;Fossil;29.41
+Togo;2004;Fossil;55.56
+Togo;2005;Fossil;61.11
+Togo;2006;Fossil;57.14
+Togo;2007;Fossil;50
+Togo;2008;Fossil;25
+Togo;2009;Fossil;21.43
+Togo;2010;Fossil;47.06
+Togo;2011;Fossil;16.67
+Togo;2012;Fossil;18.18
+Togo;2013;Fossil;60
+Togo;2014;Fossil;40
+Togo;2015;Fossil;83.78
+Togo;2016;Fossil;53.49
+Togo;2017;Fossil;84.85
+Togo;2018;Fossil;100
+Togo;2019;Fossil;83.33
+Togo;2020;Fossil;82.69
+Tonga;2000;Fossil;100
+Tonga;2001;Fossil;100
+Tonga;2002;Fossil;100
+Tonga;2003;Fossil;100
+Tonga;2004;Fossil;100
+Tonga;2005;Fossil;100
+Tonga;2006;Fossil;100
+Tonga;2007;Fossil;100
+Tonga;2008;Fossil;100
+Tonga;2009;Fossil;100
+Tonga;2010;Fossil;100
+Tonga;2011;Fossil;100
+Tonga;2012;Fossil;100
+Tonga;2013;Fossil;100
+Tonga;2014;Fossil;100
+Tonga;2015;Fossil;100
+Tonga;2016;Fossil;100
+Tonga;2017;Fossil;100
+Tonga;2018;Fossil;100
+Tonga;2019;Fossil;100
+Tonga;2020;Fossil;100
+Trinidad and Tobago;2000;Fossil;99.61
+Trinidad and Tobago;2001;Fossil;99.62
+Trinidad and Tobago;2002;Fossil;99.62
+Trinidad and Tobago;2003;Fossil;99.5
+Trinidad and Tobago;2004;Fossil;99.5
+Trinidad and Tobago;2005;Fossil;99.55
+Trinidad and Tobago;2006;Fossil;99.56
+Trinidad and Tobago;2007;Fossil;99.58
+Trinidad and Tobago;2008;Fossil;100
+Trinidad and Tobago;2009;Fossil;100
+Trinidad and Tobago;2010;Fossil;100
+Trinidad and Tobago;2011;Fossil;100
+Trinidad and Tobago;2012;Fossil;100
+Trinidad and Tobago;2013;Fossil;100
+Trinidad and Tobago;2014;Fossil;100
+Trinidad and Tobago;2015;Fossil;100
+Trinidad and Tobago;2016;Fossil;100
+Trinidad and Tobago;2017;Fossil;100
+Trinidad and Tobago;2018;Fossil;100
+Trinidad and Tobago;2019;Fossil;100
+Trinidad and Tobago;2020;Fossil;100
+Tunisia;2000;Fossil;99.2
+Tunisia;2001;Fossil;99.35
+Tunisia;2002;Fossil;99.19
+Tunisia;2003;Fossil;98.37
+Tunisia;2004;Fossil;98.45
+Tunisia;2005;Fossil;98.61
+Tunisia;2006;Fossil;99.02
+Tunisia;2007;Fossil;99.3
+Tunisia;2008;Fossil;99.48
+Tunisia;2009;Fossil;98.75
+Tunisia;2010;Fossil;98.73
+Tunisia;2011;Fossil;98.96
+Tunisia;2012;Fossil;98.15
+Tunisia;2013;Fossil;97.48
+Tunisia;2014;Fossil;96.7
+Tunisia;2015;Fossil;96.84
+Tunisia;2016;Fossil;96.59
+Tunisia;2017;Fossil;96.87
+Tunisia;2018;Fossil;96.72
+Tunisia;2019;Fossil;96.01
+Tunisia;2020;Fossil;95.85
+Tunisia;2021;Fossil;95.8
+Turkey;2000;Fossil;74.93
+Turkey;2001;Fossil;80.08
+Turkey;2002;Fossil;73.55
+Turkey;2003;Fossil;74.51
+Turkey;2004;Fossil;69.08
+Turkey;2005;Fossil;75.39
+Turkey;2006;Fossil;74.73
+Turkey;2007;Fossil;80.96
+Turkey;2008;Fossil;82.64
+Turkey;2009;Fossil;80.41
+Turkey;2010;Fossil;73.6
+Turkey;2011;Fossil;74.66
+Turkey;2012;Fossil;72.76
+Turkey;2013;Fossil;71.13
+Turkey;2014;Fossil;79.08
+Turkey;2015;Fossil;67.98
+Turkey;2016;Fossil;67.03
+Turkey;2017;Fossil;70.57
+Turkey;2018;Fossil;67.83
+Turkey;2019;Fossil;56.32
+Turkey;2020;Fossil;57.98
+Turkey;2021;Fossil;64.67
+Turkmenistan;2000;Fossil;100
+Turkmenistan;2001;Fossil;100
+Turkmenistan;2002;Fossil;100
+Turkmenistan;2003;Fossil;100
+Turkmenistan;2004;Fossil;100
+Turkmenistan;2005;Fossil;100
+Turkmenistan;2006;Fossil;100
+Turkmenistan;2007;Fossil;100
+Turkmenistan;2008;Fossil;100
+Turkmenistan;2009;Fossil;100
+Turkmenistan;2010;Fossil;100
+Turkmenistan;2011;Fossil;100
+Turkmenistan;2012;Fossil;100
+Turkmenistan;2013;Fossil;100
+Turkmenistan;2014;Fossil;100
+Turkmenistan;2015;Fossil;100
+Turkmenistan;2016;Fossil;100
+Turkmenistan;2017;Fossil;100
+Turkmenistan;2018;Fossil;100
+Turkmenistan;2019;Fossil;100
+Turkmenistan;2020;Fossil;100
+Turks and Caicos Islands (the);2000;Fossil;100
+Turks and Caicos Islands (the);2001;Fossil;100
+Turks and Caicos Islands (the);2002;Fossil;100
+Turks and Caicos Islands (the);2003;Fossil;100
+Turks and Caicos Islands (the);2004;Fossil;100
+Turks and Caicos Islands (the);2005;Fossil;100
+Turks and Caicos Islands (the);2006;Fossil;100
+Turks and Caicos Islands (the);2007;Fossil;100
+Turks and Caicos Islands (the);2008;Fossil;100
+Turks and Caicos Islands (the);2009;Fossil;100
+Turks and Caicos Islands (the);2010;Fossil;100
+Turks and Caicos Islands (the);2011;Fossil;100
+Turks and Caicos Islands (the);2012;Fossil;100
+Turks and Caicos Islands (the);2013;Fossil;100
+Turks and Caicos Islands (the);2014;Fossil;100
+Turks and Caicos Islands (the);2015;Fossil;100
+Turks and Caicos Islands (the);2016;Fossil;100
+Turks and Caicos Islands (the);2017;Fossil;100
+Turks and Caicos Islands (the);2018;Fossil;100
+Turks and Caicos Islands (the);2019;Fossil;100
+Turks and Caicos Islands (the);2020;Fossil;100
+Uganda;2000;Fossil;2.52
+Uganda;2001;Fossil;2.52
+Uganda;2002;Fossil;2.34
+Uganda;2003;Fossil;2.78
+Uganda;2004;Fossil;2.58
+Uganda;2005;Fossil;5.64
+Uganda;2006;Fossil;25.48
+Uganda;2007;Fossil;28.43
+Uganda;2008;Fossil;26.72
+Uganda;2009;Fossil;37.08
+Uganda;2010;Fossil;43.51
+Uganda;2011;Fossil;40.66
+Uganda;2012;Fossil;24.53
+Uganda;2013;Fossil;10.39
+Uganda;2014;Fossil;12.97
+Uganda;2015;Fossil;12.96
+Uganda;2016;Fossil;10.05
+Uganda;2017;Fossil;8.71
+Uganda;2018;Fossil;8.03
+Uganda;2019;Fossil;5.22
+Uganda;2020;Fossil;6.21
+Ukraine;2000;Fossil;48.26
+Ukraine;2001;Fossil;48.95
+Ukraine;2002;Fossil;49.51
+Ukraine;2003;Fossil;49.68
+Ukraine;2004;Fossil;45.72
+Ukraine;2005;Fossil;45.58
+Ukraine;2006;Fossil;46.62
+Ukraine;2007;Fossil;47.49
+Ukraine;2008;Fossil;47.22
+Ukraine;2009;Fossil;45.26
+Ukraine;2010;Fossil;45.69
+Ukraine;2011;Fossil;47.96
+Ukraine;2012;Fossil;48.9
+Ukraine;2013;Fossil;49.25
+Ukraine;2014;Fossil;45.83
+Ukraine;2015;Fossil;41.4
+Ukraine;2016;Fossil;44.62
+Ukraine;2017;Fossil;37.54
+Ukraine;2018;Fossil;38.43
+Ukraine;2019;Fossil;37.86
+Ukraine;2020;Fossil;36.76
+Ukraine;2021;Fossil;30.57
+United Arab Emirates;2000;Fossil;100
+United Arab Emirates;2001;Fossil;100
+United Arab Emirates;2002;Fossil;100
+United Arab Emirates;2003;Fossil;100
+United Arab Emirates;2004;Fossil;100
+United Arab Emirates;2005;Fossil;100
+United Arab Emirates;2006;Fossil;100
+United Arab Emirates;2007;Fossil;100
+United Arab Emirates;2008;Fossil;100
+United Arab Emirates;2009;Fossil;99.99
+United Arab Emirates;2010;Fossil;99.98
+United Arab Emirates;2011;Fossil;99.97
+United Arab Emirates;2012;Fossil;99.96
+United Arab Emirates;2013;Fossil;99.9
+United Arab Emirates;2014;Fossil;99.72
+United Arab Emirates;2015;Fossil;99.75
+United Arab Emirates;2016;Fossil;99.74
+United Arab Emirates;2017;Fossil;99.42
+United Arab Emirates;2018;Fossil;98.98
+United Arab Emirates;2019;Fossil;97.25
+United Arab Emirates;2020;Fossil;95.71
+United Kingdom;2000;Fossil;74.61
+United Kingdom;2001;Fossil;73.94
+United Kingdom;2002;Fossil;74.26
+United Kingdom;2003;Fossil;74.89
+United Kingdom;2004;Fossil;75.94
+United Kingdom;2005;Fossil;75.08
+United Kingdom;2006;Fossil;76.21
+United Kingdom;2007;Fossil;78.95
+United Kingdom;2008;Fossil;80.68
+United Kingdom;2009;Fossil;74.71
+United Kingdom;2010;Fossil;76.69
+United Kingdom;2011;Fossil;71.46
+United Kingdom;2012;Fossil;69.07
+United Kingdom;2013;Fossil;65.16
+United Kingdom;2014;Fossil;61.73
+United Kingdom;2015;Fossil;54.4
+United Kingdom;2016;Fossil;53.99
+United Kingdom;2017;Fossil;49.51
+United Kingdom;2018;Fossil;47.03
+United Kingdom;2019;Fossil;45.08
+United Kingdom;2020;Fossil;40.55
+United Kingdom;2021;Fossil;44.89
+United States of America;2000;Fossil;70.95
+United States of America;2001;Fossil;71.88
+United States of America;2002;Fossil;70.99
+United States of America;2003;Fossil;71.28
+United States of America;2004;Fossil;71.36
+United States of America;2005;Fossil;71.91
+United States of America;2006;Fossil;71.16
+United States of America;2007;Fossil;72.17
+United States of America;2008;Fossil;71.23
+United States of America;2009;Fossil;69.22
+United States of America;2010;Fossil;70.11
+United States of America;2011;Fossil;68.25
+United States of America;2012;Fossil;68.83
+United States of America;2013;Fossil;67.76
+United States of America;2014;Fossil;67.25
+United States of America;2015;Fossil;66.91
+United States of America;2016;Fossil;65.06
+United States of America;2017;Fossil;62.74
+United States of America;2018;Fossil;63.39
+United States of America;2019;Fossil;62.28
+United States of America;2020;Fossil;60.18
+United States of America;2021;Fossil;60.35
+Uruguay;2000;Fossil;6.54
+Uruguay;2001;Fossil;0.66
+Uruguay;2002;Fossil;0.74
+Uruguay;2003;Fossil;0.94
+Uruguay;2004;Fossil;17.47
+Uruguay;2005;Fossil;11.9
+Uruguay;2006;Fossil;34.18
+Uruguay;2007;Fossil;10.45
+Uruguay;2008;Fossil;35.41
+Uruguay;2009;Fossil;29.75
+Uruguay;2010;Fossil;15.77
+Uruguay;2011;Fossil;26.9
+Uruguay;2012;Fossil;36.44
+Uruguay;2013;Fossil;17.89
+Uruguay;2014;Fossil;12.84
+Uruguay;2015;Fossil;14.06
+Uruguay;2016;Fossil;9.88
+Uruguay;2017;Fossil;9.25
+Uruguay;2018;Fossil;9.42
+Uruguay;2019;Fossil;12.03
+Uruguay;2020;Fossil;16.12
+Uzbekistan;2000;Fossil;86.87
+Uzbekistan;2001;Fossil;86.88
+Uzbekistan;2002;Fossil;86.89
+Uzbekistan;2003;Fossil;83.9
+Uzbekistan;2004;Fossil;81.18
+Uzbekistan;2005;Fossil;81.18
+Uzbekistan;2006;Fossil;89.41
+Uzbekistan;2007;Fossil;89.67
+Uzbekistan;2008;Fossil;88.96
+Uzbekistan;2009;Fossil;85.61
+Uzbekistan;2010;Fossil;83.54
+Uzbekistan;2011;Fossil;88.68
+Uzbekistan;2012;Fossil;86.86
+Uzbekistan;2013;Fossil;89.05
+Uzbekistan;2014;Fossil;88.6
+Uzbekistan;2015;Fossil;87.17
+Uzbekistan;2016;Fossil;87.05
+Uzbekistan;2017;Fossil;85.62
+Uzbekistan;2018;Fossil;90.16
+Uzbekistan;2019;Fossil;89.17
+Uzbekistan;2020;Fossil;88.06
+Vanuatu;2000;Fossil;100
+Vanuatu;2001;Fossil;100
+Vanuatu;2002;Fossil;100
+Vanuatu;2003;Fossil;100
+Vanuatu;2004;Fossil;100
+Vanuatu;2005;Fossil;100
+Vanuatu;2006;Fossil;100
+Vanuatu;2007;Fossil;100
+Vanuatu;2008;Fossil;100
+Vanuatu;2009;Fossil;100
+Vanuatu;2010;Fossil;100
+Vanuatu;2011;Fossil;83.33
+Vanuatu;2012;Fossil;83.33
+Vanuatu;2013;Fossil;71.43
+Vanuatu;2014;Fossil;71.43
+Vanuatu;2015;Fossil;71.43
+Vanuatu;2016;Fossil;71.43
+Vanuatu;2017;Fossil;83.33
+Vanuatu;2018;Fossil;71.43
+Vanuatu;2019;Fossil;71.43
+Vanuatu;2020;Fossil;71.43
+Venezuela (Bolivarian Republic of);2000;Fossil;25.28
+Venezuela (Bolivarian Republic of);2001;Fossil;31.79
+Venezuela (Bolivarian Republic of);2002;Fossil;31.98
+Venezuela (Bolivarian Republic of);2003;Fossil;32.87
+Venezuela (Bolivarian Republic of);2004;Fossil;27.9
+Venezuela (Bolivarian Republic of);2005;Fossil;24.59
+Venezuela (Bolivarian Republic of);2006;Fossil;25.13
+Venezuela (Bolivarian Republic of);2007;Fossil;26.48
+Venezuela (Bolivarian Republic of);2008;Fossil;26.19
+Venezuela (Bolivarian Republic of);2009;Fossil;27.08
+Venezuela (Bolivarian Republic of);2010;Fossil;31.39
+Venezuela (Bolivarian Republic of);2011;Fossil;28.01
+Venezuela (Bolivarian Republic of);2012;Fossil;31.45
+Venezuela (Bolivarian Republic of);2013;Fossil;31.02
+Venezuela (Bolivarian Republic of);2014;Fossil;36.48
+Venezuela (Bolivarian Republic of);2015;Fossil;37.71
+Venezuela (Bolivarian Republic of);2016;Fossil;40.36
+Venezuela (Bolivarian Republic of);2017;Fossil;40.36
+Venezuela (Bolivarian Republic of);2018;Fossil;40.36
+Venezuela (Bolivarian Republic of);2019;Fossil;31.6
+Venezuela (Bolivarian Republic of);2020;Fossil;30.49
+Viet Nam;2000;Fossil;43.94
+Viet Nam;2001;Fossil;39.26
+Viet Nam;2002;Fossil;47.86
+Viet Nam;2003;Fossil;52.31
+Viet Nam;2004;Fossil;60.39
+Viet Nam;2005;Fossil;59.31
+Viet Nam;2006;Fossil;65.04
+Viet Nam;2007;Fossil;64.84
+Viet Nam;2008;Fossil;63.33
+Viet Nam;2009;Fossil;62.67
+Viet Nam;2010;Fossil;69.77
+Viet Nam;2011;Fossil;59.29
+Viet Nam;2012;Fossil;53.68
+Viet Nam;2013;Fossil;55.51
+Viet Nam;2014;Fossil;55.37
+Viet Nam;2015;Fossil;63.67
+Viet Nam;2016;Fossil;62.7
+Viet Nam;2017;Fossil;53.98
+Viet Nam;2018;Fossil;60.17
+Viet Nam;2019;Fossil;73.14
+Viet Nam;2020;Fossil;72.09
+Viet Nam;2021;Fossil;62.94
+Virgin Islands (British);2000;Fossil;100
+Virgin Islands (British);2001;Fossil;100
+Virgin Islands (British);2002;Fossil;100
+Virgin Islands (British);2003;Fossil;100
+Virgin Islands (British);2004;Fossil;100
+Virgin Islands (British);2005;Fossil;100
+Virgin Islands (British);2006;Fossil;100
+Virgin Islands (British);2007;Fossil;100
+Virgin Islands (British);2008;Fossil;100
+Virgin Islands (British);2009;Fossil;100
+Virgin Islands (British);2010;Fossil;100
+Virgin Islands (British);2011;Fossil;100
+Virgin Islands (British);2012;Fossil;100
+Virgin Islands (British);2013;Fossil;100
+Virgin Islands (British);2014;Fossil;100
+Virgin Islands (British);2015;Fossil;100
+Virgin Islands (British);2016;Fossil;100
+Virgin Islands (British);2017;Fossil;100
+Virgin Islands (British);2018;Fossil;100
+Virgin Islands (British);2019;Fossil;100
+Virgin Islands (British);2020;Fossil;100
+Virgin Islands (U.S.);2000;Fossil;100
+Virgin Islands (U.S.);2001;Fossil;100
+Virgin Islands (U.S.);2002;Fossil;100
+Virgin Islands (U.S.);2003;Fossil;100
+Virgin Islands (U.S.);2004;Fossil;100
+Virgin Islands (U.S.);2005;Fossil;100
+Virgin Islands (U.S.);2006;Fossil;100
+Virgin Islands (U.S.);2007;Fossil;100
+Virgin Islands (U.S.);2008;Fossil;100
+Virgin Islands (U.S.);2009;Fossil;100
+Virgin Islands (U.S.);2010;Fossil;100
+Virgin Islands (U.S.);2011;Fossil;100
+Virgin Islands (U.S.);2012;Fossil;100
+Virgin Islands (U.S.);2013;Fossil;100
+Virgin Islands (U.S.);2014;Fossil;98.57
+Virgin Islands (U.S.);2015;Fossil;98.55
+Virgin Islands (U.S.);2016;Fossil;98.53
+Virgin Islands (U.S.);2017;Fossil;98.11
+Virgin Islands (U.S.);2018;Fossil;98.36
+Virgin Islands (U.S.);2019;Fossil;98.39
+Virgin Islands (U.S.);2020;Fossil;98.44
+World;2000;Fossil;64.17
+World;2001;Fossil;64.66
+World;2002;Fossil;65.26
+World;2003;Fossil;66.42
+World;2004;Fossil;66
+World;2005;Fossil;66.42
+World;2006;Fossil;66.72
+World;2007;Fossil;67.98
+World;2008;Fossil;67.22
+World;2009;Fossil;66.78
+World;2010;Fossil;67.11
+World;2011;Fossil;67.79
+World;2012;Fossil;67.79
+World;2013;Fossil;67.27
+World;2014;Fossil;66.68
+World;2015;Fossil;66.01
+World;2016;Fossil;65.33
+World;2017;Fossil;64.72
+World;2018;Fossil;64.17
+World;2019;Fossil;63.01
+World;2020;Fossil;61.29
+World;2021;Fossil;61.54
+Yemen;2000;Fossil;100
+Yemen;2001;Fossil;100
+Yemen;2002;Fossil;100
+Yemen;2003;Fossil;100
+Yemen;2004;Fossil;100
+Yemen;2005;Fossil;100
+Yemen;2006;Fossil;100
+Yemen;2007;Fossil;100
+Yemen;2008;Fossil;100
+Yemen;2009;Fossil;100
+Yemen;2010;Fossil;100
+Yemen;2011;Fossil;100
+Yemen;2012;Fossil;100
+Yemen;2013;Fossil;100
+Yemen;2014;Fossil;99.86
+Yemen;2015;Fossil;98.14
+Yemen;2016;Fossil;96.67
+Yemen;2017;Fossil;95.27
+Yemen;2018;Fossil;85.98
+Yemen;2019;Fossil;85.46
+Yemen;2020;Fossil;84.61
+Zambia;2000;Fossil;0.9
+Zambia;2001;Fossil;0.89
+Zambia;2002;Fossil;0.99
+Zambia;2003;Fossil;0.97
+Zambia;2004;Fossil;0.83
+Zambia;2005;Fossil;0.9
+Zambia;2006;Fossil;0.83
+Zambia;2007;Fossil;0.63
+Zambia;2008;Fossil;0.42
+Zambia;2009;Fossil;0.51
+Zambia;2010;Fossil;0.48
+Zambia;2011;Fossil;0.44
+Zambia;2012;Fossil;0.41
+Zambia;2013;Fossil;0.38
+Zambia;2014;Fossil;2.37
+Zambia;2015;Fossil;2.69
+Zambia;2016;Fossil;5.51
+Zambia;2017;Fossil;12.57
+Zambia;2018;Fossil;14.02
+Zambia;2019;Fossil;12.8
+Zambia;2020;Fossil;12.52
+Zimbabwe;2000;Fossil;48.96
+Zimbabwe;2001;Fossil;57.12
+Zimbabwe;2002;Fossil;49.88
+Zimbabwe;2003;Fossil;34.89
+Zimbabwe;2004;Fossil;38.58
+Zimbabwe;2005;Fossil;42.48
+Zimbabwe;2006;Fossil;28.23
+Zimbabwe;2007;Fossil;24.73
+Zimbabwe;2008;Fossil;21.65
+Zimbabwe;2009;Fossil;22.08
+Zimbabwe;2010;Fossil;29.5
+Zimbabwe;2011;Fossil;38.37
+Zimbabwe;2012;Fossil;36.4
+Zimbabwe;2013;Fossil;42.11
+Zimbabwe;2014;Fossil;40.37
+Zimbabwe;2015;Fossil;42.82
+Zimbabwe;2016;Fossil;51.32
+Zimbabwe;2017;Fossil;41.72
+Zimbabwe;2018;Fossil;40.86
+Zimbabwe;2019;Fossil;32.36
+Zimbabwe;2020;Fossil;31.32
